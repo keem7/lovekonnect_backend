@@ -1,0 +1,12 @@
+[tool.railway]
+enabled = true
+
+[project]
+name = "love-konnect-backend"
+version = "1.0.0"
+
+[build]
+pythonVersion = "3.12"
+
+[[build.environment]]
+PYTHON_VERSION = "3.12.5"
