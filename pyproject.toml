@@ -9,4 +9,4 @@ version = "1.0.0"
 pythonVersion = "3.12"
 
 [[build.environment]]
-PYTHON_VERSION = "3.12.5"
+PYTHON_VERSION = "3.12"
